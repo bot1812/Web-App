@@ -6,7 +6,7 @@ import plotly.express as px
 
 DATE_TIME = "date/time"
 DATA_URL = (
-    r"C:\Users\rinku dhar\Desktop\[IMPORTANT]New Project\Motor_Vehicle_Collisions_-_Crashes.csv"
+    r"*insert file path here*.csv"
 )
 
 st.title("Motor Vehicle Collisions in New York City")
